@@ -1,12 +1,8 @@
 # sample_project
-Team name: Think tank
- 
-  Team leader: Mugelan.V 
+Team name: Techie Tribe
+Team leader: Anuprabha. S.S
+Team membs :Mugelan.V , Avanthika Shree.U.S
+Title: Truck disposal
+Problem statement 1 : Instead of using manual incinerators, how can we ensure syringe disposal automatically and effectively
 
-  Reg.num: 21BCE2721
- 
-  Title: Future developments
-
-  Description: New project which is useful for our well future and saves time.
-
-[Presentation1.1.pptx](https://github.com/Mugelan-v/sample_project/files/7611483/Presentation1.1.pptx)
+[bhoomi 2.pptx](https://github.com/Mugelan-v/sample_project/files/7612862/bhoomi.2.pptx)
