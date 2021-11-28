@@ -1,17 +1,10 @@
 # sample_project
-Team name: Think tank
- 
-  Team leader: Mugelan.V 
-  Reg.num: 21BCE2721
-
-   Team member: Anuprabha. S.S
-    Reg.number   :  21BEC0751
- 
-  Title: Future developments
-
-  Description: New project which is useful for our well future and saves time.
+Team name: Techie Tribe
+Team leader: Anuprabha. S.S
+Team membs :Mugelan.V , Avanthika Shree.U.S
+Title: Truck disposal
+Problem statement 1 : Instead of using manual incinerators, how can we ensure syringe disposal automatically and effectively
 
 
-[appathon ppt.pptx](https://github.com/Mugelan-v/sample_project/files/7612864/appathon.ppt.pptx)
+https://user-images.githubusercontent.com/95119591/143766300-d2f01aac-e1a7-4f7e-9b44-ddfda9cecdff.mp4
 
-The real demonstration will will be shown by us by screen-sharing in review 3
